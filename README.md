@@ -26,7 +26,9 @@ This is a responsive personal portfolio website to showcase my skills, projects,
 Portfolio/
 ├── index.html # Main landing page
 ├── style.css # Styling and layout
-├── script.js # Interactive elements
+
+👩‍💻 Author
+ Vanshika Sohal
 
 
 
